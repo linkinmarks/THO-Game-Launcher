@@ -6,7 +6,8 @@ Mình viết THO Game Launcher để gom game và ứng dụng trên máy vào m
 
 Bản Open Beta 1.1.3 miễn phí đã sẵn sàng! Mời mọi người tải về dùng thử; gặp lỗi hay có ý tưởng gì thì góp ý giúp mình nhé. 💚
 
-⬇ Tải tại: https://github.com/linkinmarks/THO-Game-Launcher/releases/tag/v1.1.3
+⬇ Tải bản Open Beta 1.1.3: https://github.com/linkinmarks/THO-Game-Launcher/releases/tag/v1.1.3
+⚡ Tải trực tiếp bộ cài Windows: https://github.com/linkinmarks/THO-Game-Launcher/releases/download/v1.1.3/THO-Game-Launcher-1.1.3-Setup.exe
 💬 Góp ý, báo lỗi: https://github.com/linkinmarks/THO-Game-Launcher/issues
 
 #THOGameLauncher #OpenBeta #GameLauncher
