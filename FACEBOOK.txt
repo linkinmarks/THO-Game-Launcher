@@ -1,0 +1,12 @@
+🎮 THO GAME LAUNCHER — OPEN BETA 1.1.3
+
+Desktop đầy icon, game nằm rải rác nhiều ổ đĩa, đến lúc muốn chơi lại phải đi tìm? 😅
+
+Mình viết THO Game Launcher để gom game và ứng dụng trên máy vào một giao diện gọn gàng, dễ quản lý và đẹp mắt. Có tìm game/ứng dụng đã cài, gợi ý game từ thư viện và theo dõi thời gian chơi khi mở game qua THO, giữ launcher chạy.
+
+Bản Open Beta 1.1.3 miễn phí đã sẵn sàng! Mời mọi người tải về dùng thử; gặp lỗi hay có ý tưởng gì thì góp ý giúp mình nhé. 💚
+
+⬇ Tải tại: https://github.com/linkinmarks/THO-Game-Launcher/releases/tag/v1.1.3
+💬 Góp ý, báo lỗi: https://github.com/linkinmarks/THO-Game-Launcher/issues
+
+#THOGameLauncher #OpenBeta #GameLauncher
