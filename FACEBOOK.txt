@@ -1,15 +1,20 @@
-🎮 THO GAME LAUNCHER — OPEN BETA 1.1.4
+🎮 THO GAME LAUNCHER — CLOSED BETA 1.2.0
 
-Desktop đầy icon, game nằm rải rác nhiều ổ đĩa, đến lúc muốn chơi lại phải đi tìm? 😅
+Desktop đầy icon, game nằm rải rác nhiều ổ đĩa, mỗi lần muốn chơi lại phải đi tìm? 😅
 
-Mình viết THO Game Launcher để gom game và ứng dụng trên máy vào một giao diện gọn gàng, dễ quản lý và đẹp mắt. Có tìm game/ứng dụng đã cài, gợi ý game từ thư viện và theo dõi thời gian chơi khi mở game qua THO, giữ launcher chạy.
+Mình viết THO Game Launcher để gom game và ứng dụng trên máy vào một giao diện gọn gàng, dễ tìm, dễ mở. Có tìm game/ứng dụng đã cài, gợi ý game từ thư viện và hiển thị thời gian chơi ngay trên ảnh bìa khi mở game qua THO.
 
-Bản 1.1.4 có thêm thời gian chơi ngay trên ảnh bìa và menu cài đặt kèm icon dễ nhìn hơn.
+✨ Bản 1.2.0 có widget mini bo góc trên desktop, tự lấy game yêu thích và luân phiên hiển thị mỗi 6 giây khi có hơn 2 game. Đóng cửa sổ thư viện, widget vẫn ở đó để mở game nhanh; có tùy chọn chạy cùng Windows. Đồng thời đã sửa lỗi cửa sổ bị che phần trên ở màn hình nhỏ.
 
-Bản Open Beta 1.1.4 miễn phí đã sẵn sàng! Mời mọi người tải về dùng thử; gặp lỗi hay có ý tưởng gì thì góp ý giúp mình nhé. 💚
+Ứng dụng miễn phí. Bản Closed Beta 1.2.0 đã được phát hành! Mời mọi người tải về trải nghiệm; gặp lỗi hay có ý tưởng gì thì góp ý giúp mình hoàn thiện nhé! 💚
 
-⬇ Tải bản Open Beta 1.1.4: https://github.com/linkinmarks/THO-Game-Launcher/releases/tag/v1.1.4
-⚡ Tải trực tiếp bộ cài Windows: https://github.com/linkinmarks/THO-Game-Launcher/releases/download/v1.1.4/THO-Game-Launcher-1.1.4-Setup.exe
-💬 Góp ý, báo lỗi: https://github.com/linkinmarks/THO-Game-Launcher/issues
+⬇ Tải Closed Beta 1.2.0:
+https://github.com/linkinmarks/THO-Game-Launcher/releases/tag/v1.2.0
 
-#THOGameLauncher #OpenBeta #GameLauncher
+⚡ Tải bộ cài trực tiếp:
+https://github.com/linkinmarks/THO-Game-Launcher/releases/download/v1.2.0/THO-Game-Launcher-1.2.0-Setup.exe
+
+💬 Góp ý / báo lỗi:
+https://github.com/linkinmarks/THO-Game-Launcher/issues
+
+#THOGameLauncher #ClosedBeta #GameLauncher
